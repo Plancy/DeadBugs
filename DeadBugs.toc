@@ -1,0 +1,5 @@
+## Interface: 50400
+## Title: DeadBugs
+## Notes: Hides Lua errors and logs them.
+## Version: 1.0
+DeadBugs.lua

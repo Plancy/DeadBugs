@@ -1,10 +1,10 @@
 # 🐞 DeadBugs
 
-**DeadBugs** — аддон для World of Warcraft, который скрывает ошибки Lua/UI, восстанавливает интерфейс и сохраняет логи всех ошибок. Поддерживает несколько языков.
+**DeadBugs** — WoW addon that hides Lua/UI errors, restores interface, and logs all error events with multi-language support.
 
 ---
 
-## 📌 Description (English)
+## 📌 Description
 
 - Hides annoying Lua and UI error popups in WoW Classic/MoP.
 - Automatically restores broken interface elements after errors.
